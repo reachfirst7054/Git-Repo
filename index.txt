@@ -1,5 +1,13 @@
 This is version 1.0
 This line is written in development branch
 Version 1.1
+<<<<<<< HEAD
 This is change 1.1
 This is another change 1.1
+=======
+This is another change 1.1
+Version 1.2
+This is change 1.1
+This is another change 1.1
+This is change to development
+>>>>>>> development
